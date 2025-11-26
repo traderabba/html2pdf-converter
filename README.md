@@ -13,7 +13,7 @@ Works directly on Android mobile devices (Termux or any environment that support
 
 - Python 3
 
-- Requests library, install it using *pip install requests*
+- Requests library
 
 - HTML2PDF.app's API key
 
@@ -21,9 +21,11 @@ Works directly on Android mobile devices (Termux or any environment that support
 
 1. Launch your Pydroid3 or any Python IDE app and load the script
 
+2. Install **requests* from **Pip* section or using 'pip install requests'
+
 2. Replace this line with your real API key:
 
-API_KEY = "YOUR_API_KEY_HERE"
+'API_KEY = "YOUR_API_KEY_HERE"'
 
 You can get a free API key from https://html2pdf.app
 
