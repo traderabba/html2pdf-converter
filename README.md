@@ -25,9 +25,9 @@ Works directly on Android mobile devices (Termux or any environment that support
 
 2. Replace this line with your real API key:
 
-`API_KEY = "YOUR_API_KEY_HERE"`
+   API_KEY = "YOUR_API_KEY_HERE"
 
-    - You can get a free API key from https://html2pdf.app
+You can get a free API key from https://html2pdf.app
 
 # How It Works
 
