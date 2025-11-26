@@ -15,4 +15,41 @@ Works directly on Android mobile devices (Termux or any environment that support
 
 - Requests library, install it using *pip install requests*
 
-- HTML2PDF API key at https://html2pdf.app/ 
+- HTML2PDF API key
+
+# Setup
+
+1. Launch your app and load the script
+
+
+2. Replace this line with your real API key:
+
+API_KEY = "YOUR_API_KEY_HERE"
+
+You can get a free API key from html2pdf.app
+
+# How It Works
+
+The script gives you two ways to load HTML:
+
+A) Paste HTML directly
+
+- Paste your HTML
+
+- Type END on a new line to finish
+
+
+B) Upload an HTML file
+
+- Enter the relative path
+
+- Script reads from /storage/emulated/0/
+
+
+After choosing input, enter a PDF filename, and wait for a second, the PDF will be saved automatically in your specified folder. 
+
+# Credits
+
+Made by Trader Abba
+Follow: @TraderAbba
+
